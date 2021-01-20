@@ -5,7 +5,7 @@
 
 * 🌱 I’m currently learning **Rust**
 
-* 👨‍💻 All of my projects are available at [ethanholen.com](ethanholen.com)
+* 👨‍💻 All of my projects are available at [ethanholen.com](https://ethanholen.com)
 
 * 📫 How to reach me **ethanholen@gmail.com**
 
