@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ethanholen&label=Profile%20views&color=0e75b6&style=flat" alt="ethanholen" /> </p>
 
-* 🌱 I’m currently learning **Rust**
+* 🌱 I’m currently learning **SwiftUI**
 
-* 👨‍💻 All of my projects are available at [ethanholen.com](https://ethanholen.com)
+* 👨‍💻 All of my projects are available at  [ethanholen.com](https://ethanholen.com)
 
 * 📫 How to reach me **ethanholen@gmail.com**
 
