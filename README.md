@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ethan</h1>
-<h3 align="center">A graduate student and developer working out of Fort Collins, Colorado.</h3>
+<h3 align="center">A Cloud Kubernetes Platform Engineer at HPE working out of Fort Collins, Colorado.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ethanholen&label=Profile%20views&color=0e75b6&style=flat" alt="ethanholen" /> </p>
 
